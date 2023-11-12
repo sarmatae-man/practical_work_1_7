@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.28)        # требуемая версия cmake
+cmake_minimum_required(VERSION 3.16)        # требуемая версия cmake
 project(    
     lesson3                                 # название проекта                        
     VERSION 0.0.0                           # номер версии проекта
