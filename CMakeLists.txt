@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.16)        # требуемая версия cmake
 project(    
     lesson3                                 # название проекта                        
-    VERSION 0.0.0                           # номер версии проекта
+    VERSION 1.0.0                           # номер версии проекта
     DESCRIPTION "First project"             # описание           
     LANGUAGES CXX                           # язык программирования
 )   
